@@ -1,2 +1,1 @@
-# pracLMS
-my personal copy of lms project
+My test LMS
